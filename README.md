@@ -1,2 +1,0 @@
-# nacos-consumer
-nacos-consumer
